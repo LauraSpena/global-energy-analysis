@@ -27,19 +27,26 @@ To understand how energy consumption patterns differ across countries depending 
   - Structural
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard Preview](global_dashboard_preview.png)
 
 ## 🔄 Iteration & Improvements
-This dashboard was redesigned to address initial limitations:
-- Lack of a clear analytical objective
-- Visual fragmentation
-- Redundant ranking charts
-- Weak KPI definitions
 
-The final version focuses on:
-- A central analytical question
-- A primary visual (scatter plot)
-- Simplified structure and clearer insights
+The dashboard was redesigned to address key analytical and structural limitations identified in the initial version:
+
+### Initial Issues
+- Lack of a clear analytical focus
+- Fragmented visual structure
+- Overuse of ranking charts without added insight
+- Weak KPI definition and prioritization
+
+### Improvements Implemented
+- Defined a central analytical question to guide the analysis
+- Introduced a primary visual (scatter plot) to capture structural relationships
+- Simplified layout to improve readability and narrative flow
+- Refined KPIs to better reflect energy system dynamics
+
+### Outcome
+The final version provides a more coherent analytical narrative, enabling clearer interpretation of structural differences across countries.
 
 ## 📂 Files
 - `global_energy_dashboard.pbix` → Full Power BI dashboard
