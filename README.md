@@ -29,6 +29,18 @@ To understand how energy consumption patterns differ across countries depending 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard_preview.png)
 
+## 🔄 Iteration & Improvements
+This dashboard was redesigned to address initial limitations:
+- Lack of a clear analytical objective
+- Visual fragmentation
+- Redundant ranking charts
+- Weak KPI definitions
+
+The final version focuses on:
+- A central analytical question
+- A primary visual (scatter plot)
+- Simplified structure and clearer insights
+
 ## 📂 Files
 - `global_energy_dashboard.pbix` → Full Power BI dashboard
 - `/docs` → Technical documentation and analysis process
